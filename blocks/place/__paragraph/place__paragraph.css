@@ -6,22 +6,30 @@
     grid-area: paragraph;
     max-width: 484px;
     margin: 0 0 26px 0;
+    box-sizing: border-box;
 }
 
 .place__paragraph:nth-last-child(1) {
     margin: 0;
 }
 
+@media screen and (max-width: 1140px) {
+    .place__paragraph {
+        max-width: 456px;
+    }
+}
+
 @media screen and (max-width: 984px) {
     .place__paragraph {
+        max-width: 352px;
         font-size: 16px;
         line-height: 26px;
-        max-width: 352px;
     }
 }
 
 @media screen and (max-width: 568px) {
     .place__paragraph {
-        padding-left: 16px;
+        max-width: 320px;
+        padding: 0 16px;
     }
 }
