@@ -5,7 +5,7 @@
 * Технологии
 * Планы
 
-[ССЫЛКА НА ПРОЕКТ](https://jufed.github.io/russian-travel/ "RUSSIAN TRAVEL")
+[ССЫЛКА НА ПРОЕКТ](https://jufed.github.io/russian-travel/index.html "RUSSIAN TRAVEL")
 
 **Описание проекта**
 
