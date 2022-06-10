@@ -1,18 +1,23 @@
 .intro {
-    color: #ffff;
+    color: #fff;
     max-width: 690px;
-    padding: 114px 0 92px 148px;
-    box-sizing: border-box;
+    padding: 92px 0 92px 148px;
+}
+
+@media screen and (max-width: 1025px) {
+    .intro {
+        padding: 92px 0 92px 48px;
+    }
 }
 
 @media screen and (max-width: 984px) {
     .intro {
-        padding: 110px 0 88px 24px;
+        padding: 88px 0 88px 24px;
     }
 }
 
 @media screen and (max-width: 568px) {
     .intro {
-        padding: 86px 16px 40px 16px;
+        padding: 64px 16px 64px 16px;
     }
 }

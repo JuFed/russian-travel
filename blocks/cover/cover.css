@@ -1,9 +1,10 @@
 .cover {
     max-width: 1184px;
     max-height: 740px;
-    background-image: url(.././images/cover-trains.jpg);
+    background-image: url(../../images/cover-trains.jpg);
     background-size: cover;
     background-position: center;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 1140px) {

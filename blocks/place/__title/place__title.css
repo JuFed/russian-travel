@@ -4,7 +4,7 @@
     line-height: 76px;
     color: #ffff;
     grid-area: title;
-    margin: 0 0 48px 0;
+    margin-top: 48px;
     max-width: 460px;
     align-self: flex-end;
 }
@@ -22,5 +22,6 @@
         line-height: 35px;
         max-width: 288px;
         padding: 0 16px;
+        margin-top: 0;
     }
 }
